@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rhalidoo</h1>
-<h3 align="center">I`m Interested in Data Analysis and Artificial Intelligence</h3>
+<h1 align="center">Hi 👋, I'm Rhalidoo</h1> 
+<h3 align="center">I`m Interested in Data Analysis </h3>
 
 - 🌱 I’m currently learning **Data Analysis**
 
