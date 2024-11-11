@@ -1,5 +1,10 @@
 <h2 align="left">Hi 👋! My name is Rhalid <br>🌱 I’m currently learning Data Analysis.</h2>
 
+<div align="center">
+  <iframe src="https://giphy.com/embed/aAbax5anloMNk6TSP9" width="480" height="259" style="border:none;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <p><a href="https://giphy.com/gifs/TOEIAnimationUK-goku-super-saiyan-ultra-instinct-aAbax5anloMNk6TSP9">via GIPHY</a></p>
+</div>
+
 ###
 
 <div align="center">
@@ -33,8 +38,7 @@
   <a href="Rhalido Ben" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
   </a>
-  <a href="benichou.rhalid@gmail.com" target="_blank">
+  <a href="mailto:benichou.rhalid@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
