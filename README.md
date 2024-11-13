@@ -2,8 +2,6 @@
 
 <div align="center">
   <iframe src="https://giphy.com/embed/aAbax5anloMNk6TSP9" width="480" height="259" style="border:none;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  <p><a href="https://giphy.com/gifs/TOEIAnimationUK-goku-super-saiyan-ultra-instinct-aAbax5anloMNk6TSP9">via GIPHY</a></p>
-</div>
 
 ###
 
