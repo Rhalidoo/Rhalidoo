@@ -24,7 +24,6 @@
 
 <img align="right" height="124" src="https://raw.githubusercontent.com/Rhalidoo/Rhalidoo/refs/heads/main/fWAlpoPgxSF47aqh8R.webp" />
 
-
 ###
 
 <div align="left">
