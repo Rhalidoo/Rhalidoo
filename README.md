@@ -1,8 +1,5 @@
 <h2 align="left">Hi 👋! My name is Rhalid <br>🌱 I’m currently learning Data Analysis.</h2>
 
-<div align="center">
-  <iframe src="https://giphy.com/embed/aAbax5anloMNk6TSP9" width="480" height="259" style="border:none;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
 ###
 
 <div align="center">
