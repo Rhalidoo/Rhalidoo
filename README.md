@@ -19,6 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
+
 ###
 
 <img align="right" height="124" src="https://raw.githubusercontent.com/Rhalidoo/Rhalidoo/refs/heads/main/fWAlpoPgxSF47aqh8R.webp" />
